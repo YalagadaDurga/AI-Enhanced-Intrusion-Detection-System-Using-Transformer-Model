@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit cache
+.streamlit/
+
+# Environment
+venv/
+.env
+
+# datasets
+data/
+
+# numpy arrays
+*.npy
+
+# processed data
+data/processed/
+
+# Model weights
+*.pt
+*.pth
+*.pkl
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
